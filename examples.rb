@@ -1,0 +1,1 @@
+# NiceRunner.run("cat :in :in -o > :out", "whatever", "whatever2")
